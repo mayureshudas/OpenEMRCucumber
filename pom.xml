@@ -51,6 +51,13 @@
             <artifactId>cucumber-testng</artifactId>
             <version>1.2.2</version>
         </dependency>
+<dependency>
+        <groupId>info.cukes</groupId>
+        <artifactId>cucumber-core</artifactId>
+        <version>1.2.2</version>
+        </dependency>
+
+  <dependency>
  
         <dependency>
             <groupId>info.cukes</groupId>
