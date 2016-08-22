@@ -1,0 +1,17 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace C:\Program Files (x86)\Jenkins\workspace\openemrselenium
+[openemrselenium] $ cmd /c call C:\WINDOWS\TEMP\hudson6441788528581575443.bat
+
+C:\Program Files (x86)\Jenkins\workspace\openemrselenium>java -jar openemr.jar http://firsttest.x6k26cjtd6.us-west-2.elasticbeanstalk.com/interface/login/login_frame.php?site=default firefox 
+[TestNG] Running:
+  Command line suite
+
+
+===============================================
+Command line suite
+Total tests run: 5, Failures: 1, Skips: 4
+===============================================
+
+
+C:\Program Files (x86)\Jenkins\workspace\openemrselenium>exit 0 
+Finished: SUCCESS
